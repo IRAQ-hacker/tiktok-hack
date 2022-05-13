@@ -1,6 +1,15 @@
 # tiktok-hack
 tool tik tok hack
-thia tool for hack emails tik tok account
+this tool for hack emails tik tok account
+
+# f.d.p
+
+- [+] free and fast .
+
+- [+] dangerous. 
+
+- [+] programing with python. 
+
 # how to used:  
 
 `past in pydroid`
@@ -10,3 +19,8 @@ thia tool for hack emails tik tok account
 `and y/n choise y `
 
 # for any help contact with me in: 
+[![30%](https://img.shields.io/badge/account%20-%20telegram-blue)](https://t.me/PYTHON_3x)
+
+[![30%](https://img.shields.io/badge/account%20-%20instagram-orange)](https://instagram.com/rhp.2)
+
+[![30%](https://img.shields.io/badge/account%20-%20youtube-hot)](https://youtube.com/channel/UCeiAvxp1ql4yfBtKUM7Lt8A)
