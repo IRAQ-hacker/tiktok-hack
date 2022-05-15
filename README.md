@@ -28,10 +28,18 @@ this tool for hack emails tik tok account
 * `enter token bot telegram ` <BR>
 * `type your choise num 5 ` <BR>
 * `and y/n choise y `<BR>
+* ` install library ` <BR>
 <BR>
 <HR WIDTH="250">
 <BR>
   
+  
+# library: 
+  * [+] threading 
+  * [+] threaded
+  * [+] threadPool
+  * [+] requests 
+  * [+] 
 # watch video: 
 <a HREF="https://www.youtube.com/embed/p8CRgPGDn2Q">watch</a>
   
